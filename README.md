@@ -2,16 +2,16 @@
 Time Craft is a Windows Forms Pomodoro Timer Application developed in C#.
 
 # Features 🌟
-   ✔ Pomodoro timer functionality \n
-   ✔ Short breaks and long breaks
-   ✔ Pomodoro count tracking
-   ✔ Sound notifications on timer completion
+   ✔ Pomodoro timer functionality <br>
+   ✔ Short breaks and long breaks <br>
+   ✔ Pomodoro count tracking <br>
+   ✔ Sound notifications on timer completion <br>
 
 # Installation 💻
-   ◈ Clone or download the repository.
-   ◈ Open the solution in Visual Studio.
-   ◈ Build the solution.
-   ◈ Run the application.
+   ◈ Clone or download the repository. <br>
+   ◈ Open the solution in Visual Studio. <br>
+   ◈ Build the solution. <br>
+   ◈ Run the application. <br>
    
 # Usage 📝
 Set the desired duration for the pomodoros, short breaks, and long breaks in the application settings.
